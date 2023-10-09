@@ -34,8 +34,8 @@ Umweltoekonomik-Fragen
 
 - [ ] Klärung der Aufgabenstellung
 
--[ ] Klärung der Struktur
+- [ ] Klärung der Struktur
 
--[ ] Bekanntmachen mit dem IPCC 
+- [ ] Bekanntmachen mit dem IPCC 
 
--[ ] Für Einarbeitung: Blick auf [Our World in Data] (https://ourworldindata.org/)
+- [ ] Für Einarbeitung: Blick auf [Our World in Data] (https://ourworldindata.org/)
