@@ -38,4 +38,4 @@ Umweltoekonomik-Fragen
 
 - [ ] Bekanntmachen mit dem IPCC 
 
-- [ ] Für Einarbeitung: Blick auf [Our World in Data] (https://ourworldindata.org/)
+- [ ] Für Einarbeitung: Blick auf [Our World in Data](https://ourworldindata.org/)
