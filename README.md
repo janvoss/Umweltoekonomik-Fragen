@@ -32,7 +32,7 @@ Umweltoekonomik-Fragen
 
 # Agenda 10.10.
 
--[ ] Klärung der Aufgabenstellung
+- [ ] Klärung der Aufgabenstellung
 
 -[ ] Klärung der Struktur
 
