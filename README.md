@@ -36,6 +36,6 @@ Umweltoekonomik-Fragen
 
 - [ ] Klärung der Struktur
 
-- [ ] Bekanntmachen mit dem [IPCC](ipcc.org) 
+- [ ] Bekanntmachen mit dem [IPCC](ipcc.ch) 
 
 - [ ] Für Einarbeitung: Blick auf [Our World in Data](https://ourworldindata.org/)
