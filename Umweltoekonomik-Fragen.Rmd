@@ -13,6 +13,22 @@ output:
 
 #  {-}
 
+```{r qr,  echo=FALSE, warning=FALSE}
+library(qrcode)
+
+qr <- qr_code('https://janvoss.github.io/Umweltoekonomik-Fragen')
+#plot(qr)
+
+generate_svg(qr, filename = "qr.svg")
+
+```
+
+
+
+ ${}$             |  Unterlagen: [https://janvoss.github.io/Umweltoekonomik-Fragen](https://janvoss.github.io/Umweltoekonomik-Fragen)
+:-------------------------:|:-------------------------:
+![logo](logo.png)  |  ![](qr.svg){width=60% }
+
 
 # Einleitung
 
