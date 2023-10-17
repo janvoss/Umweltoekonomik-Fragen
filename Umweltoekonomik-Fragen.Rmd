@@ -71,11 +71,13 @@ generate_svg(qr, filename = "qr.svg")
 
 - [ ] Gruppenfindung
 
-- [ ] Visualisierungstool CanvasXpress
+- [x] Visualisierungstool CanvasXpress
 
-- [ ] Struktur möglicher Fragestellungen  
+- [x] Struktur möglicher Fragestellungen  
    - Verlauf der Erderwärmung  
    - Konsequenzen der Erwärmung  
    - Klimaschutzpolitik der Staaten  
    - Anpassungspolitik  
    - $\dots$
+   
+$\rightarrow$ bis 11 Uhr Findung Gruppen und Themen (ruhig noch unverbindlich. Als Inspiration)
