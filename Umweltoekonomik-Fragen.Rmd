@@ -66,3 +66,11 @@ generate_svg(qr, filename = "qr.svg")
 - [ ] Bekanntmachen mit dem [IPCC](https://www.ipcc.ch/) 
 
 - [ ] Für Einarbeitung: Blick auf [Our World in Data](https://ourworldindata.org/)
+
+# Agenda 17.10. {-}
+
+- [ ] Gruppenfindung
+
+- [ ] Visualisierungstooö CanvasXpress
+
+- [ ] Struktur möglicher Fragestellungen
