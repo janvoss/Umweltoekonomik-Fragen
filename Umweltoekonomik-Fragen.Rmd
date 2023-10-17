@@ -59,11 +59,11 @@ generate_svg(qr, filename = "qr.svg")
 
 # Agenda 10.10. {-}
 
-- [ ]  Klärung der Aufgabenstellung
+- [x]  Klärung der Aufgabenstellung
 
-- [ ] Klärung der Struktur
+- [x] Klärung der Struktur
 
-- [ ] Bekanntmachen mit dem [IPCC](https://www.ipcc.ch/) 
+- [x] Bekanntmachen mit dem [IPCC](https://www.ipcc.ch/) 
 
 - [ ] Für Einarbeitung: Blick auf [Our World in Data](https://ourworldindata.org/)
 
