@@ -71,10 +71,11 @@ generate_svg(qr, filename = "qr.svg")
 
 - [ ] Gruppenfindung
 
-- [ ] Visualisierungstooö CanvasXpress
+- [ ] Visualisierungstool CanvasXpress
 
 - [ ] Struktur möglicher Fragestellungen  
    - Verlauf der Erderwärmung  
    - Konsequenzen der Erwärmung  
    - Klimaschutzpolitik der Staaten  
-   - Anpassungspolitik
+   - Anpassungspolitik  
+   - $\dots$
