@@ -81,3 +81,12 @@ generate_svg(qr, filename = "qr.svg")
    - $\dots$
    
 $\rightarrow$ bis 11 Uhr Findung Gruppen und Themen (ruhig noch unverbindlich. Als Inspiration)
+
+**Ihre Ideen**
+
+
+- Auswirkungen des Klimawandels auf Ozeane und Küstenregionen 
+- Auswikrungen auf Wasserressourcen (Trinkwasser, Ökosysteme)
+- Anpassungsmöglichkeiten auf kommunaler Ebene (Gesundheitsschutz und attraktiven Lebensraum bewahren)  
+- Klimaschutzpolitik internationaler Vergleich  
+- Umsiedlung/Migration/soziale Auswirkungen
