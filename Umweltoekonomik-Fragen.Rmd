@@ -92,7 +92,9 @@ $\rightarrow$ bis 11 Uhr Findung Gruppen und Themen (ruhig noch unverbindlich. A
 - Umsiedlung/Migration/soziale Auswirkungen
 
 
-# Agenda 24.10.
+# Agenda 24.10. {-}
+
+- [ ] Input zur Datenbeschaffung und -auswertung
 
 - [ ] Überlegen Sie in Gruppen, wie sie ihr Thema angehen wollen
 
