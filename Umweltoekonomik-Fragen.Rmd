@@ -133,8 +133,10 @@ ggplot(data=df1, aes(Year, Mean))+
 
 - [ ] Herausforderung Blitzpräsentation: 
 
-  - Sie bereiten eine dreimonatige Präsentation darüber vor, was Sie vorhaben und wo Sie stehen
+  - Sie bereiten eine dreimonatige Präsentation darüber vor, was Sie vorhaben und wo Sie stehen. Maximal drei Folien
 
   - Sie zeigen insb Ihre ToDos der nächsten 2 Wochen.
 
   - Per Los werden drei Gruppen identifiziert, die tatsächlich präsentieren
+
+  - Alle Gruppen können mir ihre Präsentation zusenden mit der Möglichkeit zu Feedback
