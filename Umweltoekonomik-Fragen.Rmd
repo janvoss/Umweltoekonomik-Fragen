@@ -69,7 +69,7 @@ generate_svg(qr, filename = "qr.svg")
 
 # Agenda 17.10. {-}
 
-- [ ] Gruppenfindung
+- [x] Gruppenfindung
 
 - [x] Visualisierungstool CanvasXpress
 
@@ -123,8 +123,18 @@ ggplot(data=df1, aes(Year, Mean))+
 
 
 
-- [ ] Überlegen Sie in Gruppen, wie sie ihr Thema angehen wollen
+- [x] Überlegen Sie in Gruppen, wie sie ihr Thema angehen wollen
 
-- [ ] Sammeln Sie, wo Sie Informationen des IPCC zu diesem Thema finden
+- [x] Sammeln Sie, wo Sie Informationen des IPCC zu diesem Thema finden
 
-- [ ] Sprechen Sie mit mir über Ihre Vorhaben und Ihre Fundstellen
+- [x] Sprechen Sie mit mir über Ihre Vorhaben und Ihre Fundstellen
+
+# Agenda 31.10. {-}
+
+- [ ] Herausforderung Blitzpräsentation: 
+
+  - Sie bereiten eine dreimonatige Präsentation darüber vor, was Sie vorhaben und wo Sie stehen
+
+  - Sie zeigen insb Ihre ToDos der nächsten 2 Wochen.
+
+  - Per Los werden drei Gruppen identifiziert, die tatsächlich präsentieren
