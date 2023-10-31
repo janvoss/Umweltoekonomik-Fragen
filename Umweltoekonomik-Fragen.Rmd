@@ -122,7 +122,6 @@ ggplot(data=df1, aes(Year, Mean))+
 ```
 
 
-
 - [x] Überlegen Sie in Gruppen, wie sie ihr Thema angehen wollen
 
 - [x] Sammeln Sie, wo Sie Informationen des IPCC zu diesem Thema finden
@@ -131,12 +130,12 @@ ggplot(data=df1, aes(Year, Mean))+
 
 # Agenda 31.10. {-}
 
-- [ ] Herausforderung Blitzpräsentation: 
+- [ ] Herausforderung **Blitzpräsentation**: 
 
-  - Sie bereiten eine dreimonatige Präsentation darüber vor, was Sie vorhaben und wo Sie stehen. Maximal drei Folien
+  - Sie bereiten eine dreiminütige Präsentation darüber vor, was Sie vorhaben und wo Sie stehen. **Maximal drei Folien**
 
   - Sie zeigen insb Ihre ToDos der nächsten 2 Wochen.
 
-  - Per Los werden drei Gruppen identifiziert, die tatsächlich präsentieren
+  - Per Los werden drei Gruppen identifiziert, die heute tatsächlich präsentieren
 
-  - Alle Gruppen können mir ihre Präsentation zusenden mit der Möglichkeit zu Feedback
+  - Alle Gruppen können mir ihre Präsentation zusenden mit der Möglichkeit zu Feedback nach der heutigen Veranstaltung
