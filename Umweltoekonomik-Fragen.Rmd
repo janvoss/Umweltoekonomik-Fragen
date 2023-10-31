@@ -130,7 +130,7 @@ ggplot(data=df1, aes(Year, Mean))+
 
 # Agenda 31.10. {-}
 
-- [ ] Herausforderung **Blitzpräsentation**: 
+- [x] Herausforderung **Blitzpräsentation**: 
 
   - Sie bereiten eine dreiminütige Präsentation darüber vor, was Sie vorhaben und wo Sie stehen. **Maximal drei Folien**
 
@@ -139,3 +139,24 @@ ggplot(data=df1, aes(Year, Mean))+
   - Per Los werden drei Gruppen identifiziert, die heute tatsächlich präsentieren
 
   - Alle Gruppen können mir ihre Präsentation zusenden mit der Möglichkeit zu Feedback nach der heutigen Veranstaltung
+  
+- 3 Gruppen
+
+  - **Lokale Anpassungmaßnahmen bei Klimaveränderungen**
+  
+    - [x] Motivation des Themas  
+    - [x] Verknüpfung mit IPCC-Berichten
+    - [x] Eigene Vorhaben: Befragungen
+    - [ ] ToDos noch etwas unkonkret
+    
+  - **Welche Auswirkungen hat der Klimawandel auf die Migrationsmuster der Bevölkerungen weltweit?**
+  
+    - [x] Datenrecherche IPCC u.a.
+    - [x] Literatur
+    - [x] Ein bisschen Einarbeitung in R
+    - [x] Abgrenzung verschiedener Migrationsarten (voraussichtlich permanente Migration)
+    - [x] ToDos 
+
+  - **In welchem Zusammenhang steht die globale Ernährung mit dem Klimawandel**
+    - [x] Inhaltliche Aufbereitung
+    - [x] ToDos
