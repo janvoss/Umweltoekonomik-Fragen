@@ -160,3 +160,9 @@ ggplot(data=df1, aes(Year, Mean))+
   - **In welchem Zusammenhang steht die globale Ernährung mit dem Klimawandel**
     - [x] Inhaltliche Aufbereitung
     - [x] ToDos
+    
+# Agenda 7.11. {-}
+
+- [ ] Bitte besprechen Sie mir mir Ihre Themen
+
+- [ ] 
