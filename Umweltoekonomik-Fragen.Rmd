@@ -163,6 +163,6 @@ ggplot(data=df1, aes(Year, Mean))+
     
 # Agenda 7.11. {-}
 
-- [ ] Bitte besprechen Sie mir mir Ihre Themen
+- [ ] Recherchieren Sie: Wo finden Sie Informationen zu Ihren Themen in der IPCC-Berchterstattung. Bei der Gelegenheit: Gibt es Daten?
 
-- [ ] 
+- [ ] Wir besprechen Ihre Erfahrungen/Probleme/Erfolge
