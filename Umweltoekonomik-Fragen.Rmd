@@ -177,7 +177,7 @@ ggplot(data=df1, aes(Year, Mean))+
 
   - Kann eine effiziente Aufteilung der Klimaschutzanstrengungen einer gerechten Aufteilung entgegen stehen? Wie ließe sich ggf. der Konflikt auflösen?
 
-- [ ] Bitte lesen Sie: [Glennerster, Rachel & Jayachandran, Seema: Think Globally, Act Globally: Opportunities to Mitigate Greenhouse Gas Emissions in Low- and Middle-Income Countries, Journal of Economic Perspectives 37, S. 111-136](https://www.aeaweb.org/articles/pdf/doi/10.1257/jep.37.3.111)
+- [ ] Bitte lesen Sie: [Glennerster, Rachel & Jayachandran, Seema: Think Globally, Act Globally: Opportunities to Mitigate Greenhouse Gas Emissions in Low- and Middle-Income Countries, Journal of Economic Perspectives 37 (2023), S. 111-136](https://www.aeaweb.org/articles/pdf/doi/10.1257/jep.37.3.111)
 
 ```{r,  echo=FALSE, warning=FALSE, out.width="30%"}
 library(qrcode)
@@ -189,4 +189,18 @@ plot(qr)
 
   - Teilen Sie die Argumente im Paper? 
   
+  
+  
   - Welche Probleme sehen Sie ggf.? 
+  
+    - Compliance-Probleme
+    
+    - Annahme rationalen Handelns problematisch? 
+    
+    - Präferenz für Ausgaben im eigenen Land gegenüber Ausgaben im Ausland
+    
+    - Infrastruktur tw noch nicht vorhanden. Hohe "Einstiegskosten".
+    
+    - Fehlendes Kapital bei Nutzern
+    
+    - Ethische Probleme: Darf man sich einfach rauskaufen?
