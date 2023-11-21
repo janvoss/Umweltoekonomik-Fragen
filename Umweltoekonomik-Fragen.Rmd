@@ -44,10 +44,17 @@ generate_svg(qr, filename = "qr.svg")
 
 # Ihre Prüfungsleistung
 
+## Die Anforderungen
+
 - Gruppenreferat (Dreierteams)
 - 20 Minuten
 - Auseinandersetzung mit Thema/Themen aus einer IPCC-Veröffentlichung 
 - Bestandteil: Auseinandersetzung mit Zahlenmaterial (ggf Aufbereitung in R oä)
+
+
+## Hinweise zum Aufbau des Referates
+
+![Aufbau des Referats](Aufbau.svg)
 
 # Struktur der Veranstaltung 
 
@@ -204,3 +211,9 @@ plot(qr)
     - Fehlendes Kapital bei Nutzern
     
     - Ethische Probleme: Darf man sich einfach rauskaufen?
+    
+# Agenda 21.11. {-}
+
+- [ ] Aufbau/Gestaltung Referat
+
+- [ ] Ihre Projekte
