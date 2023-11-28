@@ -52,7 +52,7 @@ generate_svg(qr, filename = "qr.svg")
 - Bestandteil: Auseinandersetzung mit Zahlenmaterial (ggf Aufbereitung in R oä)
 
 
-## Hinweise zum Aufbau des Referates
+## Hinweise zum Aufbau des Referats
 
 ![Aufbau des Referats](Aufbau.svg)
 
