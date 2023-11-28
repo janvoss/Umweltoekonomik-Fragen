@@ -220,5 +220,7 @@ plot(qr)
 
 # Agenda 28.11. {-}
 
-- 
+- [ ] Wie schriftlich kommuniziert: Sie bereiten eine Präsentation über das Thema einer anderen Gruppe vor. 
+
+- [ ] Ihre Projekte
 
