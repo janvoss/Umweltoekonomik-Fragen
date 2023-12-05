@@ -1,0 +1,104 @@
+\documentclass[border=10pt]{standalone}
+\usepackage{smartdiagram}
+\usepackage[ngerman]{babel}
+\usepackage[utf8]{inputenc} %UTF-Code für Umlaute
+\usepackage[T1]{fontenc} %Trennung von Wörtern mit Umlauten
+\usepackage{lmodern}
+%\usepackage{libertine}
+\renewcommand*\familydefault{\sfdefault} %Serifenlose Schrift als Standard
+%\usepackage{microtype}
+\usesmartdiagramlibrary{additions}
+\usetikzlibrary{fit}
+
+\tikzstyle{container} = [draw, rectangle, semithick, inner sep=0.3cm
+]
+
+%Aufzählungsstriche
+\AtBeginDocument{
+	\def\labelitemi{\normalfont\bfseries{--}}
+}
+
+
+\begin{document}
+
+		\begin{tikzpicture}[
+		every node/.style = {shape=rectangle, % is not necessary, default node's shape is rectangle
+			rounded corners,
+			draw, semithick,
+			text width=5cm,
+			align=left,
+			%node distance=0.3cm
+		}
+		]
+		\node (Einleitung-Erläuterung)[
+      %  ,draw=none
+      ]{
+			\begin{itemize}
+           \item Worum geht es?
+           \item Warum ist es interessant?
+          \item Was haben Sie gemacht? Was ist besonders daran?
+            \item Wesentliche Ergebnisse (und warum sie interessant sind)
+            \item Weiterer Aufbau 
+			\end{itemize}
+        };
+		\node (Einleitung)[draw=none, left= of Einleitung-Erläuterung, align=left]{\textbf{Einleitung}\\ Hier holen Sie die  Zuhörer ab und binden sie sich.
+		};
+		
+		\node (Hauptteil-Erläuterung)[
+        below= of Einleitung-Erläuterung
+       % ,draw=none
+        ]{
+			\begin{itemize}
+            \item Thematische Grundlagen/ Stand der Literatur
+            \item Ggf. methodische Grundlagen
+            \item Sie berichten, was Sie gemacht haben
+            \item Ergebninsse
+            \item Ggf. Diskussion der Ergebnisse
+		\end{itemize}
+		};
+		
+		\node (Hauptteil)[draw=none, left= of Hauptteil-Erläuterung, align=left]{\textbf{Hauptteil}\\ Hier zeigen Sie, was Sie gemacht haben, dass es besonders ist und richten alles auf ihre Ergebnisse hin aus};
+		
+		\node (Fazit-Erläuterung)[
+        below= of Hauptteil-Erläuterung
+       % ,draw=none
+       ]{	
+			\begin{itemize}
+			\item Wesentliche Ergebnisse
+			\item Ggf. Warum ist Ihre Methode/ sind Ihre Ergebnisse besonders
+			\item Einordnung
+			\item Ausblick
+			\end{itemize}
+            };
+		
+		\node (Fazit)[draw=none, left= of Fazit-Erläuterung, align=left]{\textbf{Fazit}\\ Was sind die Kernbotschaften? Was soll eine zuhörende Person auf jeden Fall behalten?};
+        
+
+		\node (LVZ-Erläuterung)[
+        below= of Fazit-Erläuterung,
+       % draw=none
+        ]{
+        \begin{itemize}
+        \item Nur \textbf{ein} Literaturverzeichnis
+        \item alphabetisch sortiert
+        \item vollständig
+        \end{itemize}
+        };  
+        
+        \node (LVZ)[draw=none, left= of LVZ-Erläuterung]{\textbf{Literaturverzeichnis}\\ Bei Konferenzvorträgen unüblich. Aber Sie machen es bitte};
+		
+		\node (Anhänge-Erläuterung)[
+        below= of LVZ-Erläuterung,
+       ]{
+        Zusatzmaterial, das man auf Nachfrage hervorzaubern kann
+        };
+		
+		\node (Anhänge)[draw=none, left= of Anhänge-Erläuterung]{\textbf{Backup Folien}};
+		
+	%	\node (Hauptcontainer) [container,fit=(Einleitung)(Hauptteil)(Fazit)]{};
+		
+	%	\node (Vorcontainer) [container,fit=(Deckblatt)(Verzeichnisse)]{};		
+	%	\node (Nachcontainer) [container,fit=(Anhänge)]{};
+		\end{tikzpicture}
+
+\end{document}

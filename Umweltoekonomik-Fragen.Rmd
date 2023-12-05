@@ -224,3 +224,23 @@ plot(qr)
 
 - [ ] Ihre Projekte
 
+# Agenda 5.12. {-}
+
+- [ ] Rekapitulation letzte Sitzung
+
+- [ ] Jede Gruppe stellt kurz den Stand ihrer Projekte vor.  
+
+  Technik: Keine (bzw. Tafel)
+
+  Bitte darlegen:
+
+  - Thema
+  - Bezug zum IPCC
+  - Welche Literatur wird hauptsächlich verwendet?
+  - Welches Zahlenmaterial wird ausgewertet
+  - Wie?
+  - Stand der Bearbeitung
+
+
+- [ ] Ihre Projekte
+
