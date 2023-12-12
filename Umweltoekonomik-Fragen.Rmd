@@ -248,10 +248,21 @@ plot(qr)
 # Agenda 12.12. {-}
 
 
-- [ ] Recherchewerkzeug: Chat Interaktion mit IPCC-Berichten
+- [ ] **Recherchewerkzeug**: Chat Interaktion mit IPCC-Berichten (:cool:)
 
-  - Veröffentlichung: [Vaghefi et al. (2023)](https://arxiv.org/abs/2304.05510)
+  - **Veröffentlichung**: [Vaghefi et al. (2023)](https://arxiv.org/abs/2304.05510)
+  
   - Online Schnittstelle: [ChatClimate.ai](https://www.chatclimate.ai/)
+    
+    - Zwei Modi: *Hybrid* und *Standalone*
+    
+    - Versteht Fragen auch auf Deutsch, Antwort standardmäßig auf Englisch, Auf Aufforderung Antwort auch auf Deutsch. 
+
+  - **Ihre Aufgabe**: 
+  
+    - Nutzen Sie probehalber [ChatClimate.ai](https://www.chatclimate.ai/) für Ihre Projekte. 
+    
+    - Berichten Sie über Ihre Erfahrungen (informell, aber wir sammeln)
 
 - [ ] Ihre Projekte
 
