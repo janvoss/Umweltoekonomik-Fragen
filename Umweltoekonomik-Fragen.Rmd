@@ -248,7 +248,7 @@ plot(qr)
 # Agenda 12.12. {-}
 
 
-- [ ] **Recherchewerkzeug**: Chat Interaktion mit IPCC-Berichten (:cool:)
+- [ ] **Recherchewerkzeug**: Chat Interaktion mit IPCC-Berichten
 
   - **Veröffentlichung**: [Vaghefi et al. (2023)](https://arxiv.org/abs/2304.05510)
   
