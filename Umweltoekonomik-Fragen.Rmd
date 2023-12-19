@@ -266,3 +266,24 @@ plot(qr)
 
 - [ ] Ihre Projekte
 
+# Agenda 19.12. {-}
+
+- [ ] COP 28 [Abschlusserklärung](https://prod-cd-cdn.azureedge.net/-/media/Project/COP28/feature/Download-CTA-PDF/COP28_The-UAE-Consensus_18122023.pdf?rev=3a785b5143c24a509e3b0b7a55638eac)
+
+
+```{r,  echo=FALSE, warning=FALSE, out.width="30%"}
+library(qrcode)
+
+qr <- qr_code('https://prod-cd-cdn.azureedge.net/-/media/Project/COP28/feature/Download-CTA-PDF/COP28_The-UAE-Consensus_18122023.pdf?rev=3a785b5143c24a509e3b0b7a55638eac')
+
+plot(qr)
+
+```
+
+
+- [ ] Bezug der COP 28-Ergebnisse zu Ihren Projekten
+
+- [ ] Wie bewerten Sie das Ergebnis?
+
+- [ ] Ihre Projekte
+
